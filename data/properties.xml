@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+  <property id="1">
+    <name>PH Kai - Costa del Este</name>
+    <area>Costa del Este</area>
+    <location>Costa del Este, Ciudad de Panamá</location>
+    <price>491725</price>
+    <sqm>140</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Kai Panamá</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@kaipanama.com</email>
+    <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
+  </property>
+  <property id="2">
+    <name>PH Kai - Vista Parque</name>
+    <area>Costa del Este</area>
+    <location>Costa del Este, Ciudad de Panamá</location>
+    <price>395850</price>
+    <sqm>130</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Kai Panamá</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@kaipanama.com</email>
+    <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
+  </property>
+  <property id="3">
+    <name>PH Bioma</name>
+    <area>Costa del Este</area>
+    <location>Costa del Este, Ciudad de Panamá</location>
+    <price>420000</price>
+    <sqm>120</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Go Panama Realty</agency>
+    <phone>+507 6976-5310</phone>
+    <email>ventas@gopanamarealty.com</email>
+    <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
+  </property>
+  <property id="4">
+    <name>PH Matisse</name>
+    <area>Costa del Este</area>
+    <location>Frente al mar, Costa del Este</location>
+    <price>899000</price>
+    <sqm>300</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Real Estate</agency>
+    <phone>+507 209-0000</phone>
+    <email>info@panama-real-estate.com</email>
+    <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
+  </property>
+  <property id="5">
+    <name>PH Arcadia del Este</name>
+    <area>Costa del Este</area>
+    <location>Costa del Este, Ciudad de Panamá</location>
+    <price>290000</price>
+    <sqm>70</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>MLS ACOBIR</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@mlsacobir.com</email>
+    <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
+  </property>
+  <property id="6">
+    <name>PH Regalia</name>
+    <area>Costa del Este</area>
+    <location>Costa del Este, Ciudad de Panamá</location>
+    <price>1000500</price>
+    <sqm>350</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Real Estate</agency>
+    <phone>+507 209-0000</phone>
+    <email>info@panama-real-estate.com</email>
+    <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
+  </property>
+  <property id="7">
+    <name>PH Vitri - Penthouse</name>
+    <area>Costa del Este</area>
+    <location>Costa del Este, Ciudad de Panamá</location>
+    <price>1600000</price>
+    <sqm>1072</sqm>
+    <type>Penthouse</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>MLS ACOBIR</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@mlsacobir.com</email>
+    <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
+  </property>
+  <property id="8">
+    <name>PH Acqua II</name>
+    <area>Costa del Este</area>
+    <location>Avenida Paseo del Mar, Costa del Este</location>
+    <price>885000</price>
+    <sqm>347</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>MLS ACOBIR</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@mlsacobir.com</email>
+    <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
+  </property>
+  <property id="9">
+    <name>PH Elevation Tower</name>
+    <area>Costa del Este</area>
+    <location>Costa del Este, Ciudad de Panamá</location>
+    <price>387150</price>
+    <sqm>186</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>MLS ACOBIR</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@mlsacobir.com</email>
+    <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
+  </property>
+  <property id="10">
+    <name>Casa Bianca - Costa Bella</name>
+    <area>Costa del Este</area>
+    <location>Costa Bella, Costa del Este</location>
+    <price>1349000</price>
+    <sqm>465</sqm>
+    <type>Casa</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>MLS ACOBIR</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@mlsacobir.com</email>
+    <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
+  </property>
+  <property id="11">
+    <name>PH Breeze</name>
+    <area>Costa del Este</area>
+    <location>Costa del Este, Ciudad de Panamá</location>
+    <price>750000</price>
+    <sqm>242</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Engel &amp; Völkers</agency>
+    <phone>+507 214-0000</phone>
+    <email>panama@engelvoelkers.com</email>
+    <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
+  </property>
+  <property id="12">
+    <name>PH Altamar</name>
+    <area>Costa del Este</area>
+    <location>Costa del Este, Ciudad de Panamá</location>
+    <price>850000</price>
+    <sqm>296</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Engel &amp; Völkers</agency>
+    <phone>+507 214-0000</phone>
+    <email>panama@engelvoelkers.com</email>
+    <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
+  </property>
+  <property id="13">
+    <name>PH Marea II</name>
+    <area>Costa del Este</area>
+    <location>Costa del Este, Ciudad de Panamá</location>
+    <price>1900000</price>
+    <sqm>707</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Engel &amp; Völkers</agency>
+    <phone>+507 214-0000</phone>
+    <email>panama@engelvoelkers.com</email>
+    <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
+  </property>
+  <property id="14">
+    <name>PH Dieci - Pininfarina</name>
+    <area>Costa del Este</area>
+    <location>Costa del Este, Ciudad de Panamá</location>
+    <price>1200000</price>
+    <sqm>250</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Engel &amp; Völkers</agency>
+    <phone>+507 214-0000</phone>
+    <email>panama@engelvoelkers.com</email>
+    <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
+  </property>
+  <property id="15">
+    <name>The Woods - TownHomes</name>
+    <area>Santa María</area>
+    <location>Santa María Golf &amp; Country Club</location>
+    <price>1002155</price>
+    <sqm>318</sqm>
+    <type>Casa</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>InmoPlus Panamá</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@inmopluspanama.com</email>
+    <maps>https://maps.google.com/?q=Santa+Maria+Golf+Country+Club+Panama</maps>
+  </property>
+  <property id="16">
+    <name>Fendi Casa - Santa María</name>
+    <area>Santa María</area>
+    <location>Santa María Golf &amp; Country Club</location>
+    <price>1656223</price>
+    <sqm>397</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>MMS Realtor</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@mmsrealtor.com</email>
+    <maps>https://maps.google.com/?q=Santa+Maria+Golf+Country+Club+Panama</maps>
+  </property>
+  <property id="17">
+    <name>PH Celeste</name>
+    <area>Santa María</area>
+    <location>Santa María Golf &amp; Country Club</location>
+    <price>907532</price>
+    <sqm>190</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Go Panama Realty</agency>
+    <phone>+507 6976-5310</phone>
+    <email>ventas@gopanamarealty.com</email>
+    <maps>https://maps.google.com/?q=Santa+Maria+Golf+Country+Club+Panama</maps>
+  </property>
+  <property id="18">
+    <name>PH Oceana</name>
+    <area>Santa María</area>
+    <location>Santa María Golf &amp; Country Club</location>
+    <price>446842</price>
+    <sqm>150</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Go Panama Realty</agency>
+    <phone>+507 6976-5310</phone>
+    <email>ventas@gopanamarealty.com</email>
+    <maps>https://maps.google.com/?q=Santa+Maria+Golf+Country+Club+Panama</maps>
+  </property>
+  <property id="19">
+    <name>PH Corotú</name>
+    <area>Santa María</area>
+    <location>Santa María Golf &amp; Country Club</location>
+    <price>528822</price>
+    <sqm>180</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Go Panama Realty</agency>
+    <phone>+507 6976-5310</phone>
+    <email>ventas@gopanamarealty.com</email>
+    <maps>https://maps.google.com/?q=Santa+Maria+Golf+Country+Club+Panama</maps>
+  </property>
+  <property id="20">
+    <name>PH Valery Point</name>
+    <area>Santa María</area>
+    <location>Santa María Golf &amp; Country Club</location>
+    <price>1450000</price>
+    <sqm>280</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Go Panama Realty</agency>
+    <phone>+507 6976-5310</phone>
+    <email>ventas@gopanamarealty.com</email>
+    <maps>https://maps.google.com/?q=Santa+Maria+Golf+Country+Club+Panama</maps>
+  </property>
+  <property id="21">
+    <name>Casa en Santa María</name>
+    <area>Santa María</area>
+    <location>Santa María Golf &amp; Country Club</location>
+    <price>2350000</price>
+    <sqm>780</sqm>
+    <type>Casa</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Real Estate</agency>
+    <phone>+507 209-0000</phone>
+    <email>info@panama-real-estate.com</email>
+    <maps>https://maps.google.com/?q=Santa+Maria+Golf+Country+Club+Panama</maps>
+  </property>
+  <property id="22">
+    <name>PH Éleve</name>
+    <area>Santa María</area>
+    <location>Santa María Golf &amp; Country Club</location>
+    <price>1200000</price>
+    <sqm>302</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Prime Panamá</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@primepanama.com</email>
+    <maps>https://maps.google.com/?q=Santa+Maria+Golf+Country+Club+Panama</maps>
+  </property>
+  <property id="23">
+    <name>PH The Ivy - Penthouse</name>
+    <area>Santa María</area>
+    <location>Santa María Golf &amp; Country Club</location>
+    <price>999999</price>
+    <sqm>251</sqm>
+    <type>Penthouse</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Prime Panamá</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@primepanama.com</email>
+    <maps>https://maps.google.com/?q=Santa+Maria+Golf+Country+Club+Panama</maps>
+  </property>
+  <property id="24">
+    <name>PH The Reserve Pinnacle</name>
+    <area>Santa María</area>
+    <location>Santa María Golf &amp; Country Club</location>
+    <price>919784</price>
+    <sqm>265</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Panama Real Estate</agency>
+    <phone>+507 209-0000</phone>
+    <email>info@panama-real-estate.com</email>
+    <maps>https://maps.google.com/?q=Santa+Maria+Golf+Country+Club+Panama</maps>
+  </property>
+  <property id="25">
+    <name>PH The Point</name>
+    <area>Punta Paitilla</area>
+    <location>Punta Paitilla, Ciudad de Panamá</location>
+    <price>1500000</price>
+    <sqm>500</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Equity</agency>
+    <phone>+507 320-4310</phone>
+    <email>info@panamaequity.com</email>
+    <maps>https://maps.google.com/?q=The+Point+Punta+Paitilla+Panama</maps>
+  </property>
+  <property id="26">
+    <name>PH The Point - Penthouse</name>
+    <area>Punta Paitilla</area>
+    <location>Punta Paitilla, Ciudad de Panamá</location>
+    <price>2500000</price>
+    <sqm>900</sqm>
+    <type>Penthouse</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>InmoPanamá</agency>
+    <phone>+507 6847-7001</phone>
+    <email>info@inmopanama.com</email>
+    <maps>https://maps.google.com/?q=The+Point+Punta+Paitilla+Panama</maps>
+  </property>
+  <property id="27">
+    <name>PH Deluxe Residences</name>
+    <area>Punta Paitilla</area>
+    <location>Punta Paitilla, Ciudad de Panamá</location>
+    <price>454500</price>
+    <sqm>177</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>InmoProyectos Panamá</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@inmoproyectospanama.com</email>
+    <maps>https://maps.google.com/?q=Punta+Paitilla+Panama</maps>
+  </property>
+  <property id="28">
+    <name>PH La Maison Fendi</name>
+    <area>Punta Paitilla</area>
+    <location>Punta Paitilla, Ciudad de Panamá</location>
+    <price>850000</price>
+    <sqm>200</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>House Hunters Panama</agency>
+    <phone>+507 830-6020</phone>
+    <email>giovy@househunterspanama.com</email>
+    <maps>https://maps.google.com/?q=Punta+Paitilla+Panama</maps>
+  </property>
+  <property id="29">
+    <name>PH Aqualina</name>
+    <area>Punta Paitilla</area>
+    <location>Punta Paitilla, Ciudad de Panamá</location>
+    <price>650000</price>
+    <sqm>180</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>House Hunters Panama</agency>
+    <phone>+507 830-6020</phone>
+    <email>giovy@househunterspanama.com</email>
+    <maps>https://maps.google.com/?q=Punta+Paitilla+Panama</maps>
+  </property>
+  <property id="30">
+    <name>PH Grand Tower</name>
+    <area>Punta Paitilla</area>
+    <location>Punta Paitilla, Ciudad de Panamá</location>
+    <price>580000</price>
+    <sqm>170</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>House Hunters Panama</agency>
+    <phone>+507 830-6020</phone>
+    <email>giovy@househunterspanama.com</email>
+    <maps>https://maps.google.com/?q=Punta+Paitilla+Panama</maps>
+  </property>
+  <property id="31">
+    <name>PH Oceanaire</name>
+    <area>Punta Paitilla</area>
+    <location>Punta Paitilla, Ciudad de Panamá</location>
+    <price>720000</price>
+    <sqm>220</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>House Hunters Panama</agency>
+    <phone>+507 830-6020</phone>
+    <email>giovy@househunterspanama.com</email>
+    <maps>https://maps.google.com/?q=Punta+Paitilla+Panama</maps>
+  </property>
+  <property id="32">
+    <name>PH Aquamare</name>
+    <area>Punta Paitilla</area>
+    <location>Punta Paitilla, Ciudad de Panamá</location>
+    <price>680000</price>
+    <sqm>195</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>House Hunters Panama</agency>
+    <phone>+507 830-6020</phone>
+    <email>giovy@househunterspanama.com</email>
+    <maps>https://maps.google.com/?q=Punta+Paitilla+Panama</maps>
+  </property>
+  <property id="33">
+    <name>PH Rivage</name>
+    <area>Punta Paitilla</area>
+    <location>Punta Paitilla, Ciudad de Panamá</location>
+    <price>420000</price>
+    <sqm>176</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Real Estate</agency>
+    <phone>+507 209-0000</phone>
+    <email>info@panama-real-estate.com</email>
+    <maps>https://maps.google.com/?q=Punta+Paitilla+Panama</maps>
+  </property>
+  <property id="34">
+    <name>Yoo Panamá &amp; Arts Tower</name>
+    <area>Avenida Balboa</area>
+    <location>Avenida Balboa, Ciudad de Panamá</location>
+    <price>385700</price>
+    <sqm>134</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>InmoProyectos Panamá</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@inmoproyectospanama.com</email>
+    <maps>https://maps.google.com/?q=Avenida+Balboa+Panama</maps>
+  </property>
+  <property id="35">
+    <name>PH H2O</name>
+    <area>Avenida Balboa</area>
+    <location>Avenida Balboa, Ciudad de Panamá</location>
+    <price>275000</price>
+    <sqm>133</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>AvenidaBalboa.com</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@avenidabalboa.com</email>
+    <maps>https://maps.google.com/?q=Avenida+Balboa+Panama</maps>
+  </property>
+  <property id="36">
+    <name>PH Yacht Club</name>
+    <area>Avenida Balboa</area>
+    <location>Avenida Balboa, Ciudad de Panamá</location>
+    <price>365000</price>
+    <sqm>115</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>AvenidaBalboa.com</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@avenidabalboa.com</email>
+    <maps>https://maps.google.com/?q=Avenida+Balboa+Panama</maps>
+  </property>
+  <property id="37">
+    <name>PH Uptown</name>
+    <area>Avenida Balboa</area>
+    <location>Calle Uruguay, Avenida Balboa</location>
+    <price>340786</price>
+    <sqm>171</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Real Estate</agency>
+    <phone>+507 209-0000</phone>
+    <email>info@panama-real-estate.com</email>
+    <maps>https://maps.google.com/?q=Avenida+Balboa+Panama</maps>
+  </property>
+  <property id="38">
+    <name>PH Sky Ave Balboa</name>
+    <area>Avenida Balboa</area>
+    <location>Avenida Balboa, Ciudad de Panamá</location>
+    <price>365000</price>
+    <sqm>134</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Real Estate</agency>
+    <phone>+507 209-0000</phone>
+    <email>info@panama-real-estate.com</email>
+    <maps>https://maps.google.com/?q=Avenida+Balboa+Panama</maps>
+  </property>
+  <property id="39">
+    <name>PH Rivage - Ave Balboa</name>
+    <area>Avenida Balboa</area>
+    <location>Avenida Balboa, Ciudad de Panamá</location>
+    <price>420000</price>
+    <sqm>176</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Real Estate</agency>
+    <phone>+507 209-0000</phone>
+    <email>info@panama-real-estate.com</email>
+    <maps>https://maps.google.com/?q=Avenida+Balboa+Panama</maps>
+  </property>
+  <property id="40">
+    <name>PH Torre BAC</name>
+    <area>Avenida Balboa</area>
+    <location>Avenida Balboa, Ciudad de Panamá</location>
+    <price>900000</price>
+    <sqm>491</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Real Estate</agency>
+    <phone>+507 209-0000</phone>
+    <email>info@panama-real-estate.com</email>
+    <maps>https://maps.google.com/?q=Avenida+Balboa+Panama</maps>
+  </property>
+  <property id="41">
+    <name>The Label - Preventa</name>
+    <area>Avenida Balboa</area>
+    <location>Avenida Balboa, Ciudad de Panamá</location>
+    <price>165420</price>
+    <sqm>50</sqm>
+    <type>Apartamento</type>
+    <status>Preventa</status>
+    <availability>Disponible</availability>
+    <agency>Go Panama Realty</agency>
+    <phone>+507 6976-5310</phone>
+    <email>ventas@gopanamarealty.com</email>
+    <maps>https://maps.google.com/?q=Avenida+Balboa+Panama</maps>
+  </property>
+  <property id="42">
+    <name>PH The Gray</name>
+    <area>Calle 50</area>
+    <location>Calle 50, Bella Vista, Ciudad de Panamá</location>
+    <price>183200</price>
+    <sqm>59</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Go Panama Realty</agency>
+    <phone>+507 6976-5310</phone>
+    <email>ventas@gopanamarealty.com</email>
+    <maps>https://maps.google.com/?q=Calle+50+Bella+Vista+Panama</maps>
+  </property>
+  <property id="43">
+    <name>PH The Gray - Modelo 58m2</name>
+    <area>Calle 50</area>
+    <location>Calle 50, Bella Vista, Ciudad de Panamá</location>
+    <price>165000</price>
+    <sqm>58</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>RN Realty Group</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@rnrealtygroup.com</email>
+    <maps>https://maps.google.com/?q=Calle+50+Bella+Vista+Panama</maps>
+  </property>
+  <property id="44">
+    <name>PH Vista Obarrio</name>
+    <area>Calle 50</area>
+    <location>Calle 50, Obarrio, Ciudad de Panamá</location>
+    <price>280000</price>
+    <sqm>210</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Colan Highland</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@colanhighland.com</email>
+    <maps>https://maps.google.com/?q=Calle+50+Obarrio+Panama</maps>
+  </property>
+  <property id="45">
+    <name>PH Bahía Obarrio</name>
+    <area>Calle 50</area>
+    <location>Obarrio, Ciudad de Panamá</location>
+    <price>260000</price>
+    <sqm>180</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Encuentra24</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@encuentra24.com</email>
+    <maps>https://maps.google.com/?q=Obarrio+Panama</maps>
+  </property>
+  <property id="46">
+    <name>PH Bristol - Exclusivo</name>
+    <area>Calle 50</area>
+    <location>Calle 50, Ciudad de Panamá</location>
+    <price>390000</price>
+    <sqm>105</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Casas24</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@casas24.com</email>
+    <maps>https://maps.google.com/?q=Calle+50+Panama</maps>
+  </property>
+  <property id="47">
+    <name>Apartamento Calle 50</name>
+    <area>Calle 50</area>
+    <location>Calle 50, Ciudad de Panamá</location>
+    <price>350000</price>
+    <sqm>175</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Real Estate</agency>
+    <phone>+507 209-0000</phone>
+    <email>info@panama-real-estate.com</email>
+    <maps>https://maps.google.com/?q=Calle+50+Panama</maps>
+  </property>
+  <property id="48">
+    <name>Reserva de Versalles - Lyon</name>
+    <area>Versalles</area>
+    <location>Versalles, Ciudad de Panamá</location>
+    <price>392744</price>
+    <sqm>255</sqm>
+    <type>Casa</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Realty Panamá</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@realtypanama.com</email>
+    <maps>https://maps.google.com/?q=Versalles+Panama</maps>
+  </property>
+  <property id="49">
+    <name>Reserva de Versalles - Toledo</name>
+    <area>Versalles</area>
+    <location>Versalles, Ciudad de Panamá</location>
+    <price>350432</price>
+    <sqm>226</sqm>
+    <type>Casa</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Realty Panamá</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@realtypanama.com</email>
+    <maps>https://maps.google.com/?q=Versalles+Panama</maps>
+  </property>
+  <property id="50">
+    <name>Reserva de Versalles - Marsella</name>
+    <area>Versalles</area>
+    <location>Versalles, Ciudad de Panamá</location>
+    <price>304068</price>
+    <sqm>184</sqm>
+    <type>Casa</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Grupo Gestión Inmobiliaria</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@grupogestioninmobiliario.com</email>
+    <maps>https://maps.google.com/?q=Versalles+Panama</maps>
+  </property>
+  <property id="51">
+    <name>Casa en Versalles - Esquina</name>
+    <area>Versalles</area>
+    <location>Versalles, Ciudad de Panamá</location>
+    <price>420000</price>
+    <sqm>314</sqm>
+    <type>Casa</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Rent-A-House</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@rentahouse.com.pa</email>
+    <maps>https://maps.google.com/?q=Versalles+Panama</maps>
+  </property>
+  <property id="52">
+    <name>Casa Versalles - Modelo Lyon</name>
+    <area>Versalles</area>
+    <location>Versalles, Ciudad de Panamá</location>
+    <price>380000</price>
+    <sqm>265</sqm>
+    <type>Casa</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Rent-A-House</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@rentahouse.com.pa</email>
+    <maps>https://maps.google.com/?q=Versalles+Panama</maps>
+  </property>
+  <property id="53">
+    <name>Casa Versalles - 4 Recámaras</name>
+    <area>Versalles</area>
+    <location>Versalles, Ciudad de Panamá</location>
+    <price>479000</price>
+    <sqm>350</sqm>
+    <type>Casa</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Rent-A-House</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@rentahouse.com.pa</email>
+    <maps>https://maps.google.com/?q=Versalles+Panama</maps>
+  </property>
+  <property id="54">
+    <name>PH Victory Sport</name>
+    <area>Coco del Mar</area>
+    <location>Coco del Mar, San Francisco, Panamá</location>
+    <price>320000</price>
+    <sqm>80</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Real Estate</agency>
+    <phone>+507 209-0000</phone>
+    <email>info@panama-real-estate.com</email>
+    <maps>https://maps.google.com/?q=Coco+del+Mar+Panama</maps>
+  </property>
+  <property id="55">
+    <name>PH Victory Wellness</name>
+    <area>Coco del Mar</area>
+    <location>Coco del Mar, San Francisco, Panamá</location>
+    <price>297000</price>
+    <sqm>84</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Real Estate</agency>
+    <phone>+507 209-0000</phone>
+    <email>info@panama-real-estate.com</email>
+    <maps>https://maps.google.com/?q=Coco+del+Mar+Panama</maps>
+  </property>
+  <property id="56">
+    <name>PH Coco Bay</name>
+    <area>Coco del Mar</area>
+    <location>Coco del Mar, San Francisco, Panamá</location>
+    <price>450000</price>
+    <sqm>150</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Real Estate</agency>
+    <phone>+507 209-0000</phone>
+    <email>info@panama-real-estate.com</email>
+    <maps>https://maps.google.com/?q=Coco+del+Mar+Panama</maps>
+  </property>
+  <property id="57">
+    <name>PH Sobre Las Rocas</name>
+    <area>Coco del Mar</area>
+    <location>Coco del Mar, San Francisco, Panamá</location>
+    <price>610000</price>
+    <sqm>200</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Real Estate</agency>
+    <phone>+507 209-0000</phone>
+    <email>info@panama-real-estate.com</email>
+    <maps>https://maps.google.com/?q=Coco+del+Mar+Panama</maps>
+  </property>
+  <property id="58">
+    <name>Casa en Coco del Mar</name>
+    <area>Coco del Mar</area>
+    <location>Coco del Mar, San Francisco, Panamá</location>
+    <price>675000</price>
+    <sqm>400</sqm>
+    <type>Casa</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>CompreoAlquile</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@compreoalquile.com</email>
+    <maps>https://maps.google.com/?q=Coco+del+Mar+Panama</maps>
+  </property>
+  <property id="59">
+    <name>PH Dal Mare</name>
+    <area>Coco del Mar</area>
+    <location>Coco del Mar, San Francisco, Panamá</location>
+    <price>580000</price>
+    <sqm>224</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Engel &amp; Völkers</agency>
+    <phone>+507 214-0000</phone>
+    <email>panama@engelvoelkers.com</email>
+    <maps>https://maps.google.com/?q=Coco+del+Mar+Panama</maps>
+  </property>
+  <property id="60">
+    <name>PH Ocean Sky - Penthouse</name>
+    <area>Coco del Mar</area>
+    <location>Coco del Mar, San Francisco, Panamá</location>
+    <price>1200000</price>
+    <sqm>550</sqm>
+    <type>Penthouse</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Engel &amp; Völkers</agency>
+    <phone>+507 214-0000</phone>
+    <email>panama@engelvoelkers.com</email>
+    <maps>https://maps.google.com/?q=Coco+del+Mar+Panama</maps>
+  </property>
+  <property id="61">
+    <name>PH Panamar</name>
+    <area>Coco del Mar</area>
+    <location>Coco del Mar, San Francisco, Panamá</location>
+    <price>850000</price>
+    <sqm>620</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Engel &amp; Völkers</agency>
+    <phone>+507 214-0000</phone>
+    <email>panama@engelvoelkers.com</email>
+    <maps>https://maps.google.com/?q=Coco+del+Mar+Panama</maps>
+  </property>
+  <property id="62">
+    <name>PH Centriqo</name>
+    <area>Panamá Pacífico</area>
+    <location>Panamá Pacífico, Arraiján</location>
+    <price>274680</price>
+    <sqm>82</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>InmoPanamá</agency>
+    <phone>+507 6847-7001</phone>
+    <email>info@inmopanama.com</email>
+    <maps>https://maps.google.com/?q=Panama+Pacifico</maps>
+  </property>
+  <property id="63">
+    <name>PH Centriqo - 3 Rec</name>
+    <area>Panamá Pacífico</area>
+    <location>Panamá Pacífico, Arraiján</location>
+    <price>183464</price>
+    <sqm>53</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>InmoPanamá</agency>
+    <phone>+507 6847-7001</phone>
+    <email>info@inmopanama.com</email>
+    <maps>https://maps.google.com/?q=Panama+Pacifico</maps>
+  </property>
+  <property id="64">
+    <name>PH Parterre</name>
+    <area>Panamá Pacífico</area>
+    <location>Panamá Pacífico, Arraiján</location>
+    <price>239964</price>
+    <sqm>101</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>InmoPanamá</agency>
+    <phone>+507 6847-7001</phone>
+    <email>info@inmopanama.com</email>
+    <maps>https://maps.google.com/?q=Panama+Pacifico</maps>
+  </property>
+  <property id="65">
+    <name>PH Explora - Casa</name>
+    <area>Panamá Pacífico</area>
+    <location>Panamá Pacífico, Arraiján</location>
+    <price>479000</price>
+    <sqm>210</sqm>
+    <type>Casa</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>InmoPanamá</agency>
+    <phone>+507 6847-7001</phone>
+    <email>info@inmopanama.com</email>
+    <maps>https://maps.google.com/?q=Panama+Pacifico</maps>
+  </property>
+  <property id="66">
+    <name>PH Explora - Apartamento</name>
+    <area>Panamá Pacífico</area>
+    <location>Panamá Pacífico, Arraiján</location>
+    <price>355898</price>
+    <sqm>110</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>InmoPanamá</agency>
+    <phone>+507 6847-7001</phone>
+    <email>info@inmopanama.com</email>
+    <maps>https://maps.google.com/?q=Panama+Pacifico</maps>
+  </property>
+  <property id="67">
+    <name>PH River Valley</name>
+    <area>Panamá Pacífico</area>
+    <location>Veracruz, Panamá Pacífico</location>
+    <price>337500</price>
+    <sqm>190</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>InmoPanamá</agency>
+    <phone>+507 6847-7001</phone>
+    <email>info@inmopanama.com</email>
+    <maps>https://maps.google.com/?q=Panama+Pacifico</maps>
+  </property>
+  <property id="68">
+    <name>PH Midrise</name>
+    <area>Panamá Pacífico</area>
+    <location>Panamá Pacífico, Arraiján</location>
+    <price>220000</price>
+    <sqm>102</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>InmoPanamá</agency>
+    <phone>+507 6847-7001</phone>
+    <email>info@inmopanama.com</email>
+    <maps>https://maps.google.com/?q=Panama+Pacifico</maps>
+  </property>
+  <property id="69">
+    <name>Bosques del Pacífico</name>
+    <area>Panamá Pacífico</area>
+    <location>Panamá Pacífico, Arraiján</location>
+    <price>367000</price>
+    <sqm>200</sqm>
+    <type>Casa</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Panamá Pacífico Partners</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@panamapacificopartners.com</email>
+    <maps>https://maps.google.com/?q=Panama+Pacifico</maps>
+  </property>
+  <property id="70">
+    <name>PH Atlantis - El Cangrejo</name>
+    <area>El Cangrejo</area>
+    <location>El Cangrejo, Ciudad de Panamá</location>
+    <price>270000</price>
+    <sqm>134</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>MLS ACOBIR</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@mlsacobir.com</email>
+    <maps>https://maps.google.com/?q=El+Cangrejo+Panama</maps>
+  </property>
+  <property id="71">
+    <name>Proyecto LOV - Preventa</name>
+    <area>El Cangrejo</area>
+    <location>Vía Argentina, El Cangrejo</location>
+    <price>217000</price>
+    <sqm>85</sqm>
+    <type>Apartamento</type>
+    <status>Preventa</status>
+    <availability>Disponible</availability>
+    <agency>Go Panama Realty</agency>
+    <phone>+507 6976-5310</phone>
+    <email>ventas@gopanamarealty.com</email>
+    <maps>https://maps.google.com/?q=El+Cangrejo+Panama</maps>
+  </property>
+  <property id="72">
+    <name>Apartamento Loft Vía Argentina</name>
+    <area>El Cangrejo</area>
+    <location>Vía Argentina, El Cangrejo</location>
+    <price>210000</price>
+    <sqm>120</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>InmoPanamá</agency>
+    <phone>+507 6847-7001</phone>
+    <email>info@inmopanama.com</email>
+    <maps>https://maps.google.com/?q=El+Cangrejo+Panama</maps>
+  </property>
+  <property id="73">
+    <name>PH Amara</name>
+    <area>El Cangrejo</area>
+    <location>El Cangrejo, Ciudad de Panamá</location>
+    <price>280000</price>
+    <sqm>110</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Panama Equity</agency>
+    <phone>+507 320-4310</phone>
+    <email>info@panamaequity.com</email>
+    <maps>https://maps.google.com/?q=El+Cangrejo+Panama</maps>
+  </property>
+  <property id="74">
+    <name>Cavarosa</name>
+    <area>Amador</area>
+    <location>Calzada de Amador, Ciudad de Panamá</location>
+    <price>450000</price>
+    <sqm>100</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Panama Equity</agency>
+    <phone>+507 320-4310</phone>
+    <email>info@panamaequity.com</email>
+    <maps>https://maps.google.com/?q=Calzada+de+Amador+Panama</maps>
+  </property>
+  <property id="75">
+    <name>Passage Amador</name>
+    <area>Amador</area>
+    <location>Calzada de Amador, Ciudad de Panamá</location>
+    <price>195000</price>
+    <sqm>75</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Panama Equity</agency>
+    <phone>+507 320-4310</phone>
+    <email>info@panamaequity.com</email>
+    <maps>https://maps.google.com/?q=Calzada+de+Amador+Panama</maps>
+  </property>
+  <property id="76">
+    <name>PH Costanera Aqua</name>
+    <area>Avenida Balboa</area>
+    <location>Avenida Balboa, Ciudad de Panamá</location>
+    <price>320000</price>
+    <sqm>95</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Panama Equity</agency>
+    <phone>+507 320-4310</phone>
+    <email>info@panamaequity.com</email>
+    <maps>https://maps.google.com/?q=Avenida+Balboa+Panama</maps>
+  </property>
+  <property id="77">
+    <name>PH Nogal</name>
+    <area>Costa del Este</area>
+    <location>Costa del Este, Ciudad de Panamá</location>
+    <price>380000</price>
+    <sqm>110</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Empresas Bern</agency>
+    <phone>+507 214-2376</phone>
+    <email>info@empresasbern.com</email>
+    <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
+  </property>
+  <property id="78">
+    <name>PH Generation Tower</name>
+    <area>Costa del Este</area>
+    <location>Costa del Este, Ciudad de Panamá</location>
+    <price>420000</price>
+    <sqm>130</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>Empresas Bern</agency>
+    <phone>+507 214-2376</phone>
+    <email>info@empresasbern.com</email>
+    <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
+  </property>
+  <property id="79">
+    <name>PH A19 Cincuentenario</name>
+    <area>Bella Vista</area>
+    <location>Bella Vista, Ciudad de Panamá</location>
+    <price>245000</price>
+    <sqm>80</sqm>
+    <type>Apartamento</type>
+    <status>En Construcción</status>
+    <availability>Disponible</availability>
+    <agency>House Hunters Panama</agency>
+    <phone>+507 830-6020</phone>
+    <email>giovy@househunterspanama.com</email>
+    <maps>https://maps.google.com/?q=Bella+Vista+Panama</maps>
+  </property>
+  <property id="80">
+    <name>PH STAY</name>
+    <area>Bella Vista</area>
+    <location>Bella Vista, Ciudad de Panamá</location>
+    <price>130000</price>
+    <sqm>45</sqm>
+    <type>Estudio</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>InmoProyectos Panamá</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@inmoproyectospanama.com</email>
+    <maps>https://maps.google.com/?q=Bella+Vista+Panama</maps>
+  </property>
+  <property id="81">
+    <name>PH NOOK</name>
+    <area>Bella Vista</area>
+    <location>Bella Vista, Ciudad de Panamá</location>
+    <price>145000</price>
+    <sqm>48</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>InmoProyectos Panamá</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@inmoproyectospanama.com</email>
+    <maps>https://maps.google.com/?q=Bella+Vista+Panama</maps>
+  </property>
+  <property id="82">
+    <name>PH Westin Residences</name>
+    <area>Playa Bonita</area>
+    <location>Playa Bonita, Panamá</location>
+    <price>401000</price>
+    <sqm>80</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>InmoProyectos Panamá</agency>
+    <phone>+507 300-0000</phone>
+    <email>info@inmoproyectospanama.com</email>
+    <maps>https://maps.google.com/?q=Playa+Bonita+Panama</maps>
+  </property>
+</properties>

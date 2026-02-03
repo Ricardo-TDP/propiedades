@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Propiedades de Lujo - Ciudad de Panamá</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <i class="fas fa-building"></i>
+                <h1>Panama Luxury Real Estate</h1>
+            </div>
+            <div class="header-stats">
+                <div class="stat-item">
+                    <span class="stat-number" id="total-properties">0</span>
+                    <span class="stat-label">Propiedades</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" id="total-agencies">0</span>
+                    <span class="stat-label">Agencias</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" id="total-areas">0</span>
+                    <span class="stat-label">Áreas</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Search and Filters Section -->
+        <section class="filters-section">
+            <div class="search-box">
+                <i class="fas fa-search"></i>
+                <input type="text" id="search-input" placeholder="Buscar propiedades por nombre, ubicación...">
+            </div>
+            
+            <div class="filters-grid">
+                <div class="filter-group">
+                    <label><i class="fas fa-map-marker-alt"></i> Área/Zona</label>
+                    <select id="filter-area">
+                        <option value="">Todas las áreas</option>
+                    </select>
+                </div>
+                
+                <div class="filter-group">
+                    <label><i class="fas fa-building"></i> Agencia</label>
+                    <select id="filter-agency">
+                        <option value="">Todas las agencias</option>
+                    </select>
+                </div>
+                
+                <div class="filter-group">
+                    <label><i class="fas fa-tag"></i> Tipo</label>
+                    <select id="filter-type">
+                        <option value="">Todos los tipos</option>
+                    </select>
+                </div>
+                
+                <div class="filter-group">
+                    <label><i class="fas fa-info-circle"></i> Estatus</label>
+                    <select id="filter-status">
+                        <option value="">Todos los estatus</option>
+                    </select>
+                </div>
+                
+                <div class="filter-group price-range">
+                    <label><i class="fas fa-dollar-sign"></i> Rango de Precio</label>
+                    <div class="price-inputs">
+                        <input type="number" id="price-min" placeholder="Min" min="0">
+                        <span>-</span>
+                        <input type="number" id="price-max" placeholder="Max" min="0">
+                    </div>
+                </div>
+                
+                <div class="filter-actions">
+                    <button id="btn-filter" class="btn btn-primary">
+                        <i class="fas fa-filter"></i> Filtrar
+                    </button>
+                    <button id="btn-clear" class="btn btn-secondary">
+                        <i class="fas fa-times"></i> Limpiar
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Active Filters -->
+        <div class="active-filters" id="active-filters"></div>
+
+        <!-- Properties Grid -->
+        <section class="properties-section">
+            <div class="section-header">
+                <h2><i class="fas fa-list"></i> Lista de Propiedades</h2>
+                <div class="view-options">
+                    <button class="view-btn active" data-view="grid">
+                        <i class="fas fa-th"></i>
+                    </button>
+                    <button class="view-btn" data-view="list">
+                        <i class="fas fa-list"></i>
+                    </button>
+                </div>
+            </div>
+            
+            <div class="properties-grid" id="properties-container">
+                <!-- Properties will be loaded here -->
+            </div>
+            
+            <div class="pagination" id="pagination">
+                <!-- Pagination will be generated here -->
+            </div>
+        </section>
+
+        <!-- Add Property Modal -->
+        <div class="modal" id="add-property-modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3><i class="fas fa-plus-circle"></i> Agregar Nueva Propiedad</h3>
+                    <button class="close-btn" onclick="closeModal()">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <form id="add-property-form">
+                        <div class="form-grid">
+                            <div class="form-group">
+                                <label>Nombre del Proyecto</label>
+                                <input type="text" name="name" required>
+                            </div>
+                            <div class="form-group">
+                                <label>Área/Zona</label>
+                                <input type="text" name="area" required>
+                            </div>
+                            <div class="form-group">
+                                <label>Ubicación Detallada</label>
+                                <input type="text" name="location" required>
+                            </div>
+                            <div class="form-group">
+                                <label>Precio (USD)</label>
+                                <input type="number" name="price" required min="0">
+                            </div>
+                            <div class="form-group">
+                                <label>Metros Cuadrados</label>
+                                <input type="number" name="sqm" required min="0">
+                            </div>
+                            <div class="form-group">
+                                <label>Tipo</label>
+                                <select name="type" required>
+                                    <option value="Apartamento">Apartamento</option>
+                                    <option value="Casa">Casa</option>
+                                    <option value="Penthouse">Penthouse</option>
+                                    <option value="Estudio">Estudio</option>
+                                    <option value="Local Comercial">Local Comercial</option>
+                                    <option value="Oficina">Oficina</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label>Estatus</label>
+                                <select name="status" required>
+                                    <option value="Entrega Inmediata">Entrega Inmediata</option>
+                                    <option value="En Construcción">En Construcción</option>
+                                    <option value="Preventa">Preventa</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label>Agencia Inmobiliaria</label>
+                                <input type="text" name="agency" required>
+                            </div>
+                            <div class="form-group">
+                                <label>Teléfono de Contacto</label>
+                                <input type="text" name="phone" required>
+                            </div>
+                            <div class="form-group">
+                                <label>Email</label>
+                                <input type="email" name="email" required>
+                            </div>
+                            <div class="form-group full-width">
+                                <label>Enlace Google Maps</label>
+                                <input type="url" name="maps" placeholder="https://maps.google.com/...">
+                            </div>
+                        </div>
+                        <div class="form-actions">
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-save"></i> Guardar Propiedad
+                            </button>
+                            <button type="button" class="btn btn-secondary" onclick="closeModal()">
+                                <i class="fas fa-times"></i> Cancelar
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Floating Action Button -->
+        <button class="fab" onclick="openModal()" title="Agregar Propiedad">
+            <i class="fas fa-plus"></i>
+        </button>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>&copy; 2025 Panama Luxury Real Estate Dashboard. Todos los derechos reservados.</p>
+            <p>Datos actualizados de múltiples fuentes inmobiliarias.</p>
+        </footer>
+    </div>
+
+    <!-- Toast Notification -->
+    <div class="toast" id="toast"></div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
