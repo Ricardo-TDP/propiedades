@@ -1525,4 +1525,214 @@
     <maps>https://maps.google.com/?q=Costa+del+Este+Panama</maps>
   </property>
 
+    <!-- ========================================== -->
+  <!-- THE AGENCY PANAMA                          -->
+  <!-- ========================================== -->
+
+  <property id="106">
+    <name>Luxury Condo - Punta Pacífica</name>
+    <area>Punta Pacífica</area>
+    <location>Punta Pacífica, Ciudad de Panamá</location>
+    <price>650000</price>
+    <sqm>210</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>The Agency Panama</agency>
+    <phone>+507 300-1111</phone>
+    <email>info@theagencypanama.com</email>
+    <maps>https://maps.google.com/?q=Punta+Pacifica+Panama</maps>
+  </property>
+
+  <!-- ========================================== -->
+  <!-- PANAMA HOME REALTY                         -->
+  <!-- ========================================== -->
+
+  <property id="107">
+    <name>Casa Familiar - Clayton</name>
+    <area>Clayton</area>
+    <location>Clayton, Ciudad de Panamá</location>
+    <price>420000</price>
+    <sqm>280</sqm>
+    <type>Casa</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Home Realty</agency>
+    <phone>+507 300-2222</phone>
+    <email>info@panamahomerealty.com</email>
+    <maps>https://maps.google.com/?q=Clayton+Panama</maps>
+  </property>
+
+  <!-- ========================================== -->
+  <!-- HAPPY OWNERS REAL ESTATE                   -->
+  <!-- ========================================== -->
+
+  <property id="108">
+    <name>PH Ocean View - Avenida Balboa</name>
+    <area>Avenida Balboa</area>
+    <location>Avenida Balboa, Ciudad de Panamá</location>
+    <price>375000</price>
+    <sqm>140</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Happy Owners Real Estate</agency>
+    <phone>+507 300-3333</phone>
+    <email>contact@happyownerspanama.com</email>
+    <maps>https://maps.google.com/?q=Avenida+Balboa+Panama</maps>
+  </property>
+
+  <!-- ========================================== -->
+  <!-- SERVMOR REALTY                             -->
+  <!-- ========================================== -->
+
+  <property id="109">
+    <name>PH Premium Tower - San Francisco</name>
+    <area>San Francisco</area>
+    <location>San Francisco, Ciudad de Panamá</location>
+    <price>510000</price>
+    <sqm>175</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Servmor Realty</agency>
+    <phone>+507 300-4444</phone>
+    <email>info@servmorrealty.com</email>
+    <maps>https://maps.google.com/?q=San+Francisco+Panama</maps>
+  </property>
+
+  <!-- ========================================== -->
+  <!-- PRIMENET REALTY                            -->
+  <!-- ========================================== -->
+
+  <property id="110">
+    <name>Commercial Space - Obarrio</name>
+    <area>Obarrio</area>
+    <location>Obarrio, Ciudad de Panamá</location>
+    <price>890000</price>
+    <sqm>400</sqm>
+    <type>Local Comercial</type>
+    <status>Disponible</status>
+    <availability>Disponible</availability>
+    <agency>PrimeNet Realty</agency>
+    <phone>+507 300-5555</phone>
+    <email>info@primenetpanama.com</email>
+    <maps>https://maps.google.com/?q=Obarrio+Panama</maps>
+  </property>
+
+  <!-- ========================================== -->
+  <!-- YOUR PANAMA REAL ESTATE CONNECTION         -->
+  <!-- ========================================== -->
+
+  <property id="111">
+    <name>Beach Condo - Playa Bonita</name>
+    <area>Playa Bonita</area>
+    <location>Playa Bonita, Panamá</location>
+    <price>460000</price>
+    <sqm>120</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Your Panama Real Estate Connection</agency>
+    <phone>+507 300-6666</phone>
+    <email>info@yourpanamareconnection.com</email>
+    <maps>https://maps.google.com/?q=Playa+Bonita+Panama</maps>
+  </property>
+
+  <!-- ========================================== -->
+  <!-- GLOBAL INMUEBLES                           -->
+  <!-- ========================================== -->
+
+  <property id="112">
+    <name>Casa Moderna - Costa Sur</name>
+    <area>Costa Sur</area>
+    <location>Costa Sur, Ciudad de Panamá</location>
+    <price>395000</price>
+    <sqm>260</sqm>
+    <type>Casa</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Global Inmuebles</agency>
+    <phone>+507 300-7777</phone>
+    <email>info@globalinmuebles.com</email>
+    <maps>https://maps.google.com/?q=Costa+Sur+Panama</maps>
+  </property>
+
+  <!-- ========================================== -->
+  <!-- PANAMA REAL ESTATE BROKERS                 -->
+  <!-- ========================================== -->
+
+  <property id="113">
+    <name>PH Luxury Residences - Punta Paitilla</name>
+    <area>Punta Paitilla</area>
+    <location>Punta Paitilla, Ciudad de Panamá</location>
+    <price>980000</price>
+    <sqm>320</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Real Estate Brokers</agency>
+    <phone>+507 300-8888</phone>
+    <email>info@panamarealestatebrokers.com</email>
+    <maps>https://maps.google.com/?q=Punta+Paitilla+Panama</maps>
+  </property>
+
+  <!-- ========================================== -->
+  <!-- SOL REALTY                                 -->
+  <!-- ========================================== -->
+
+  <property id="114">
+    <name>PH Sunset Tower - Coco del Mar</name>
+    <area>Coco del Mar</area>
+    <location>Coco del Mar, Ciudad de Panamá</location>
+    <price>720000</price>
+    <sqm>240</sqm>
+    <type>Apartamento</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Panama Sol Realty</agency>
+    <phone>+507 300-9999</phone>
+    <email>info@panamasolrealty.com</email>
+    <maps>https://maps.google.com/?q=Coco+del+Mar+Panama</maps>
+  </property>
+
+  <!-- ========================================== -->
+  <!-- IVERPA REAL ESTATE                         -->
+  <!-- ========================================== -->
+
+  <property id="115">
+    <name>Casa Premium - Santa María</name>
+    <area>Santa María</area>
+    <location>Santa María Golf &amp; Country Club</location>
+    <price>1800000</price>
+    <sqm>600</sqm>
+    <type>Casa</type>
+    <status>Entrega Inmediata</status>
+    <availability>Disponible</availability>
+    <agency>Iverpa Real Estate</agency>
+    <phone>+507 301-0000</phone>
+    <email>info@iverparealestate.com</email>
+    <maps>https://maps.google.com/?q=Santa+Maria+Panama</maps>
+  </property>
+
+  <!-- ========================================== -->
+  <!-- GOGETIT REAL ESTATE CONSULTING             -->
+  <!-- ========================================== -->
+
+  <property id="116">
+    <name>Investment Tower - Calle 50</name>
+    <area>Calle 50</area>
+    <location>Calle 50, Ciudad de Panamá</location>
+    <price>520000</price>
+    <sqm>160</sqm>
+    <type>Apartamento</type>
+    <status>Disponible</status>
+    <availability>Disponible</availability>
+    <agency>Gogetit Real Estate</agency>
+    <phone>+507 301-1111</phone>
+    <email>info@gogetit.com</email>
+    <maps>https://maps.google.com/?q=Calle+50+Panama</maps>
+  </property>
+
+
 </properties>
